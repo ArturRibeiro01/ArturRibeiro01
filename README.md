@@ -1,5 +1,5 @@
 <h1 align="center">Oi 🖖🏾, Eu sou o Artur.</h1><br>
-<h2 align="center"> 👨🏾‍💻 Eu sou desenvolvedor frontend 👨🏾‍💻 </h2>
+<h3 align="center"> 👨🏾‍💻 Eu sou desenvolvedor frontend 👨🏾‍💻 </h3>
 <h4 align="center">Sinta-se em casa<h4>
 
 <br>
@@ -8,6 +8,7 @@
 - 🌱 Eu estou aprendendo **Angular, React**
 - 📫 Você pode me enviar um e-mail:  [![Gmail Badge](https://img.shields.io/badge/-ArturRibeiro01-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:profissional.arturrc@gmail.com)](mailto:profissional.arturrc@gmail.com)
 - ⚡ Eu gosto de **🎮Jogar Video-Games ,🏀 Basketball, 🏈 Futebol Americano, ✈ Viajar  **
+- Conheça um pouco mais do meu perfil visitando meu Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-ArturRibeiro-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullahalrifat/)](https://www.linkedin.com/in/artur-ribeiro01/)
 <br>
 <br>
 
@@ -35,7 +36,6 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="35" height="35"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="35" height="35"/>
 </p>
-<br>
  
 <h5 color"red"> DevOps <h5>
 <p align="left">
@@ -44,43 +44,27 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="35" height="35"/>
 </p>
-<br>
  
 <h5> UX & UI <h5>
 <p align="left">
  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
 </p>
-<br>
 
 <h4>Banco de Dados<h4>
 <p align="left">
  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </p>
-<br>
  
- 
- 
-
 
 <p align="center">
-[![Linkedin Badge](https://img.shields.io/badge/-ArturRibeiro-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullahalrifat/)](https://www.linkedin.com/in/abdullahalrifat/)
-
-[![Medium Badge](https://img.shields.io/badge/-@__abdullahalrifat95-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@_abdullahalrifat95)](https://medium.com/@_abdullahalrifat95)
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-ArturRibeiro-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullahalrifat/)](https://www.linkedin.com/in/artur-ribeiro01/)
 
 [![Gmail Badge](https://img.shields.io/badge/-ArturRibeiro01-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:profissional.arturrc@gmail.com)](mailto:profissional.arturrc@gmail.com)
 
-[![Facebook Badge](https://img.shields.io/badge/-abdullahalrifatcse-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/abdullahalrifatcse)](https://www.facebook.com/abdullahalrifatcse)
-[![Facebook Badge](https://img.shields.io/badge/-abdullahalrifat.github.io-%231877F2.svg?&style=flat-square&logoColor=white&link=https://abdullahalrifat.github.io/)](https://abdullahalrifat.github.io/)
 
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arturribeiro01" alt="arturribeiro01" /> </p>
-
-
-
-
-
 
 
 
