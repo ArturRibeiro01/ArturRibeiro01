@@ -1,9 +1,59 @@
+<h1 align="center">Oi 🖖🏾, Eu sou o Artur.</h1><br>
+<h2 align="center"> 👨🏾‍💻 Eu sou desenvolvedor frontend 👨🏾‍💻 </h2>
+<h4 align="center">Sinta-se em casa <h4>
+
+<br>
 
 
-##OI EU SOU O ARTUR 👋   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+- 🔭 Atualmente trabalho na empresa [ITLean](https://itlean.com.br/)
 
-## Meu Readme está em obras. 
-#
+- 🌱 I’m currently learning **Angular, React**
+
+- 📫 How to reach me **profissional.arturrc@gmail.com**
+
+- ⚡ Fun fact **🎮Play Games,🏀 Basketball, 🏈 Football,**
+<br>
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturribeiro01&layout=compact" alt="arturribeiro01" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arturribeiro01&show_icons=true" alt="arturribeiro01" /></p>
+
+<p align="center">
+<a href="https://twitter.com/arturzinho_sp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arturzinho_sp" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/artur-ribeiro01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="artur-ribeiro01" height="30" width="30" /></a>
+<a href="https://dribbble.com/arturribeiro01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="arturribeiro01" height="30" width="30" /></a>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arturribeiro01" alt="arturribeiro01" /> </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-ArturRibeiro-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullahalrifat/)](https://www.linkedin.com/in/abdullahalrifat/)
@@ -12,88 +62,10 @@
 [![Facebook Badge](https://img.shields.io/badge/-abdullahalrifatcse-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/abdullahalrifatcse)](https://www.facebook.com/abdullahalrifatcse)
 [![Facebook Badge](https://img.shields.io/badge/-abdullahalrifat.github.io-%231877F2.svg?&style=flat-square&logoColor=white&link=https://abdullahalrifat.github.io/)](https://abdullahalrifat.github.io/)
 
-Welcome to my profile! I'm a Software Engineer from Bangladesh. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/abdullahalrifat/)!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturRibeiro01&layout=compact&show_icons=true&title_color=5C2DAE&icon_color=5C2DAE)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-![rifat's github stats](https://github-readme-stats.vercel.app/api?username=ArturRibeiro01&show_icons=true)
-
-
-### Languages and Tools
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
 
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArturRibeiro01.ArturRibeiro01)
- 
-⭐️ from [@abdullahalrifat](https://github.com/abdullahalrifat)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
