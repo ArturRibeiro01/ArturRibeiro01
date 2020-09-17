@@ -11,6 +11,16 @@
 <br>
 <br>
 
+
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturribeiro01&layout=compact" alt="arturribeiro01" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arturribeiro01&show_icons=true" alt="arturribeiro01" />
+</p>
+
+
+
+
 <h5> Meu conhecimento <h5>
 <p align="left">
  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -35,11 +45,6 @@
 
 
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturribeiro01&layout=compact" alt="arturribeiro01" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arturribeiro01&show_icons=true" alt="arturribeiro01" /></p>
 
 <p align="center">
 <a href="https://twitter.com/arturzinho_sp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arturzinho_sp" height="30" width="30" /></a>
