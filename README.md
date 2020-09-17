@@ -1,20 +1,41 @@
 <h1 align="center">Oi 🖖🏾, Eu sou o Artur.</h1><br>
 <h2 align="center"> 👨🏾‍💻 Eu sou desenvolvedor frontend 👨🏾‍💻 </h2>
-<h4 align="center">Sinta-se em casa <h4>
+<h4 align="center">Sinta-se em casa<h4>
 
 <br>
-
 
 - 🔭 Atualmente trabalho na empresa [ITLean](https://itlean.com.br/)
-
-- 🌱 I’m currently learning **Angular, React**
-
-- 📫 How to reach me **profissional.arturrc@gmail.com**
-
-- ⚡ Fun fact **🎮Play Games,🏀 Basketball, 🏈 Football,**
+- 🌱 Eu estou aprendendo **Angular, React**
+- 📫 Você pode me mandar um e-mail **profissional.arturrc@gmail.com**
+- ⚡ Eu gosto de **🎮Jogar Video-Games ,🏀 Basketball, 🏈 Futebol Americano, ✈ Viajar **
+<br>
 <br>
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></p>
+<h5> Meu conhecimento <h5>
+<p align="left">
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+</p>
+
+<p align="left">
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="30" height="30"/>
+ <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+ 
+ <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></p>
+
+
+
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturribeiro01&layout=compact" alt="arturribeiro01" /></p>
 
@@ -27,24 +48,6 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arturribeiro01" alt="arturribeiro01" /> </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
