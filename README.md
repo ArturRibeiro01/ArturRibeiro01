@@ -1,8 +1,11 @@
-### Hi there 👋   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 
+##OI EU SOU O ARTUR 👋   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-# Hi I'm Rifat 👋
+## Meu Readme está em obras. 
+#
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-ArturRibeiro-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullahalrifat/)](https://www.linkedin.com/in/abdullahalrifat/)
 [![Medium Badge](https://img.shields.io/badge/-@__abdullahalrifat95-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@_abdullahalrifat95)](https://medium.com/@_abdullahalrifat95)
 [![Gmail Badge](https://img.shields.io/badge/-abdullahalrifat95-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:abdullahalrifat95@gmail.com)](mailto:abdullahalrifat95@gmail.com)
