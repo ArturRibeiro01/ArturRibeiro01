@@ -12,10 +12,9 @@
 <br>
 
 
-
-<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturribeiro01&layout=compact" alt="arturribeiro01" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arturribeiro01&show_icons=true" alt="arturribeiro01" />
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=arturribeiro01&show_icons=true" alt="arturribeiro01" />
 </p>
 
 
