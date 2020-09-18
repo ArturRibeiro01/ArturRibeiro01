@@ -1,5 +1,8 @@
 <h1 align="center">Oi 🖖🏾, Eu sou o Artur.</h1>
 <h2 align="center"> 👨🏾‍💻 Eu sou desenvolvedor frontend 👨🏾‍💻 </h2>
+<h6>
+ Estudante de programação com foco em desenvolvimento frontend e atualmente trabalho desenvolvendo o o frontend de paginas e aplicações SPA
+</p>
 <h4 align="center">Sinta-se em casa<h4>
 
 <br>
@@ -30,7 +33,7 @@
 <h5> Frameworks e Libs <h5>
 <p align="left">
  <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="35" height="35"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="35" height="35"/>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="35" height="35"/>
 </p>
  
@@ -44,14 +47,15 @@
  
 <h5> UX & UI <h5>
 <p align="left">
- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"/>
+ <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="35" height="35"/>
 </p>
 
 <h4>Banco de Dados<h4>
 <p align="left">
  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </p>
+ 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArturRibeiro01.ArturRibeiro01)
 
 
