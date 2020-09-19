@@ -1,7 +1,7 @@
 <h1 align="center">Oi 🖖🏾, Eu sou o Artur.</h1>
 <h2 align="center"> 👨🏾‍💻 Eu sou desenvolvedor frontend 👨🏾‍💻 </h2>
 <h6>
- Estudante de programação com foco em desenvolvimento frontend e atualmente trabalho desenvolvendo o o frontend de paginas e aplicações SPA
+  Trabalho com em desenvolvimento frontend e atualmente estou aperfeiçoando meus conhecimentos nos frameworks Angular e React para aplicações SPA
 </p>
 <h4 align="center">Sinta-se em casa<h4>
 
@@ -57,5 +57,7 @@
 </p>
  
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArturRibeiro01.ArturRibeiro01)
+
+<h2 align="center"> 👨🏾‍💻 BLACK LIVES MATTER 👨🏾‍💻 </h2>
 
 
