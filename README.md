@@ -1,7 +1,7 @@
 <h1 align="center">Oi 🖖🏾, Eu sou o Artur.</h1>
 <h2 align="center"> 👨🏾‍💻 Eu sou desenvolvedor frontend 👨🏾‍💻 </h2>
 <h6>
-  Trabalho com em desenvolvimento frontend e atualmente estou aperfeiçoando meus conhecimentos nos frameworks Angular e React para aplicações SPA
+  Trabalho com em desenvolvimento frontend e atualmente estou estudandoos frameworks Angular e React para construir aplicações SPA.
 </p>
 <h4 align="center">Sinta-se em casa<h4>
 
