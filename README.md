@@ -57,6 +57,5 @@
  
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArturRibeiro01.ArturRibeiro01)
 
-<h2 align="center"> 👨🏾‍💻  BLACK LIVES MATTER 👨🏾‍💻 </h2>
 
 
