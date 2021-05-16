@@ -1,7 +1,7 @@
 <h1 align="center">Oi 🖖🏾, Eu sou o Artur.</h1>
 <h2 align="center"> 👨🏾‍💻 Estudante de Desenvolvimento Frontend e UX Design 👨🏾‍💻 </h2>
 <h6>
-  Trabalho com em desenvolvimento Frontend e atualmente estou estudando os frameworks Angular e React para construir aplicações SPA.
+  Desenvolvedor Front End, com foco em React js
 </p>
 <h4 align="center">Sinta-se em casa<h4>
 
