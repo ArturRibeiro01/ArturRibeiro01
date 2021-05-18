@@ -10,8 +10,14 @@
 <h5 align="center"> Seja Bem-vindo !!   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3> <h5>
 <br>
   
+### 🧔🏿 Quem sou eu ?
+---
+- 📚 Atualmente estou aprendendo e buscando conhecimento sobre tecnologias Frontend 😅.
+- 👩🏿‍💻 No momento estou trabalhando com desenvolvimento web e técnologias como JavaScript, React, Sass.
+- 💪🏿 Objetivos de Futuro: Me tornar um Desenvolvedor WEb com foco em linguagens SPA.
+- 🤝🏿 Empreendedor: Investindo no comercio e venda de produtos para a internet. 
 
-
+<br>
 <br>
 <br>
 
@@ -47,7 +53,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 ---
-
+<br>
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arturribeiro01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -58,8 +64,9 @@
 <br>
 <br>
 
-### 🤝🏻 &nbsp;Connect with Me
-
+### 🤝🏻 &nbsp;Onde me encontrar.
+---
+<br>
 <p align="left">
 <a href="https://www.linkedin.com/in/artur-ribeiro01/"><img src="https://img.shields.io/badge/-Artur%20Ribeiro-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:profissional.arturrc@gmail.com"><img src="https://img.shields.io/badge/-profissional.arturrc@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -68,9 +75,6 @@
 <a href="https://twitter.com/arturzinho_sp"><img src="https://img.shields.io/badge/-@Arturzinho_SP-61DAFB?style=flat-square&logo=Twitter&logoColor=white"/></a>
 </p>
 
-
-  
-<br>
 <br>
 <br>
 
