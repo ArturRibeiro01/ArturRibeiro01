@@ -4,18 +4,21 @@
 <h2 align="center"> 👨🏾‍💻 Desenvolvedor Frontend 👨🏾‍💻 </h2>
 <h4 align="center">
   Faço parte de um grupo de entusiastas e estudantes de desenvolvimento web, com foco em aplicações SPA.<br>
-  No momento estou em um relacionamento sério com React e com uma queda por Nextjs.
+  No momento estou em amor platônico por ReactJS.
   <br>
 </h4>
 <h5 align="center"> Seja Bem-vindo !!   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3> <h5>
 <br>
   
 ### 🧔🏿 Quem sou eu ?
+- Sou um cara dedicado, não muito convencional e sempre divertido, tento sempre ser o mais correto possivel nas decisões e posicionamentos.
+- Trabalho com Tecnologia em infraestrutura desde 2010 e migrei em 2019 para desenvolvimento Web, onde estou muito feliz com essa etapa que planejo fazer dela muito longa.
+
 ---
-- 📚 Atualmente estou aprendendo e buscando conhecimento sobre tecnologias Frontend 😅.
+- 📚 Atualmente estou aprendendo e buscando conhecimento sobre tecnologias Frontend, Principalmente React😅.
 - 👩🏿‍💻 No momento estou trabalhando com desenvolvimento web e técnologias como JavaScript, React, Sass.
-- 💪🏿 Objetivos de Futuro: Me tornar um Desenvolvedor WEb com foco em linguagens SPA.
-- 🤝🏿 Empreendedor: Investindo no comercio e venda de produtos para a internet. 
+- 💪🏿 Objetivos de futuro não muito distante: Me tornar um Desenvolvedor WEb especialista em bibliotecas e frameworks SPA.
+- 🤝🏿 Empreendedor: Investindo pequena part do tempo no comercio e venda de produtos para a internet. 
 
 <br>
 <br>
