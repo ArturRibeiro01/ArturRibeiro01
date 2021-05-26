@@ -86,7 +86,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArturRibeiro01.ArturRibeiro01)
 
 
-
-<h5>Ultima Edição em: 18/05/2021</h5>
+<br><br><br><br><br>
+<h5>Ultima Edição em: 26/05/2021</h5>
 -----
 Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
