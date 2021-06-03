@@ -11,7 +11,6 @@
 <br>
   
 ### 🧔🏿 Quem sou eu ?
-- Sou um cara dedicado, não muito convencional e sempre divertido, tento sempre ser o mais correto possivel nas decisões e posicionamentos.
 - Trabalho com Tecnologia em infraestrutura desde 2010 e migrei em 2019 para desenvolvimento Web, onde estou muito feliz com essa etapa que planejo fazer dela muito longa.
 
 ---
