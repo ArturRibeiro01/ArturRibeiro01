@@ -68,7 +68,7 @@
 
 ### 🤝🏻 &nbsp;Onde me encontrar.
 ---
-<br>
+<p> Para me encontrar basta falar comigo em um dos acessos </p>
 <p align="left">
 <a href="https://www.linkedin.com/in/artur-ribeiro01/"><img src="https://img.shields.io/badge/-Artur%20Ribeiro-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:profissional.arturrc@gmail.com"><img src="https://img.shields.io/badge/-profissional.arturrc@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
