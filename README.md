@@ -7,6 +7,9 @@
   No momento estou em amor platônico por ReactJS.
   <br>
 </h4>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArturRibeiro01.ArturRibeiro01)
+
 <h5 align="center"> Seja Bem-vindo !!   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3> <h5>
 <br>
   
@@ -82,7 +85,7 @@
 
 <img src="https://img.icons8.com/bubbles/100/000000/futurama-bender.png"/>
  
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArturRibeiro01.ArturRibeiro01)
+
 
 
 <br><br><br><br><br>
